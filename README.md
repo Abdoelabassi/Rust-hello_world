@@ -8,7 +8,7 @@ a sample cli calculator
 start your first rust program :
 
 ```
-cargo new <project_name> --bin
+cargo new <project_name> 
 
 cargo run
  ```
