@@ -28,7 +28,8 @@ fn operate(op:char, x:f32, y:f32)-> f32{
         '-' => x - y,
         '*' => x*y,
         '/' => x/y,
-        _ => 0.0
+
+        _ => panic!("invalid operator.")
     }
 }
 
