@@ -26,7 +26,7 @@ fn operate(op:char, x:f32, y:f32)-> f32{
     match op {
         '+' => x + y,
         '-' => x - y,
-        '*' => x*y,
+        '*' | 'x' | 'X' => x*y,
         '/' => x/y,
 
         _ => panic!("invalid operator.")
