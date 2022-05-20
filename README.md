@@ -3,7 +3,7 @@
 a sample cli calculator
 
 
-### Geting Started
+### Getting Started
 
 start your first rust program :
 
