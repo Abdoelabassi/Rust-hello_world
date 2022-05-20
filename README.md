@@ -1,4 +1,4 @@
-### This is first rust progrogram
+### This is first rust program
 
 a sample cli calculator
 
